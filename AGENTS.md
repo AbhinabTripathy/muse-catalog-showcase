@@ -8,3 +8,8 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Application rules
+- Keep shared SSI Pharma navigation and footer in a shared site module, with separate home and portfolio routes, so both pages stay consistent.
+- Store supplied product content in a browser-safe data module and derive counts from the actual rows to avoid catalogue discrepancies.
+- Enquiries prepare an email draft to the supplied contact rather than claiming delivery, because no submission service is configured.
