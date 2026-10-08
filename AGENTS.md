@@ -13,3 +13,4 @@
 - Keep shared SSI Pharma navigation and footer in a shared site module, with separate home and portfolio routes, so both pages stay consistent.
 - Store supplied product content in a browser-safe data module and derive counts from the actual rows to avoid catalogue discrepancies.
 - Enquiries prepare an email draft to the supplied contact rather than claiming delivery, because no submission service is configured.
+- Keep the catalogue filter rail and product grid in presentation CSS with a stacked narrow-screen layout, so design changes do not alter product filtering or supplied data.
