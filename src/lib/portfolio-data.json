@@ -1,0 +1,644 @@
+[
+  {
+    "id": "critical-care",
+    "name": "Critical Care & Hospital Antibiotics",
+    "description": "Sepsis and MDR gram-negative/positive coverage — the hospital-formulary backbone for antibiotic-resistant infection control.",
+    "products": [
+      {
+        "name": "Amikacin Sulphate",
+        "form": "IV",
+        "strength": "100mg/2ml · 250mg/2ml · 500mg/2ml",
+        "use": "MDR gram-negative infections, ICU, TB second-line"
+      },
+      {
+        "name": "Ceftriaxone",
+        "form": "IV",
+        "strength": "250mg · 500mg · 1000mg",
+        "use": "Broad-spectrum first-line hospital antibiotic"
+      },
+      {
+        "name": "Cefepime",
+        "form": "IV",
+        "strength": "500mg · 1000mg (± Tazobactam)",
+        "use": "MDR Pseudomonas, nosocomial infections"
+      },
+      {
+        "name": "Cefoperazone + Sulbactam / Tazobactam",
+        "form": "IV",
+        "strength": "500mg–2000mg combinations",
+        "use": ""
+      },
+      {
+        "name": "Ceftazidime ± Sulbactam / Tazobactam",
+        "form": "IV",
+        "strength": "1000mg · 2000mg combos",
+        "use": ""
+      },
+      {
+        "name": "Cefuroxime",
+        "form": "IV",
+        "strength": "1.5gm",
+        "use": ""
+      },
+      {
+        "name": "Meropenem ± Sulbactam / Tazobactam",
+        "form": "IV",
+        "strength": "125mg–1000mg",
+        "use": ""
+      },
+      {
+        "name": "Imipenem + Cilastatin",
+        "form": "IV",
+        "strength": "250mg · 500mg",
+        "use": ""
+      },
+      {
+        "name": "Piperacillin + Tazobactam",
+        "form": "IV",
+        "strength": "1.125gm–4.5gm",
+        "use": ""
+      },
+      {
+        "name": "Polymyxin B",
+        "form": "Dry Powder",
+        "strength": "5 lac IU · 7.5 lac IU",
+        "use": ""
+      },
+      {
+        "name": "Teicoplanin",
+        "form": "Lyophilised",
+        "strength": "200mg · 400mg",
+        "use": ""
+      },
+      {
+        "name": "Tigecycline",
+        "form": "Dry Powder",
+        "strength": "50mg",
+        "use": ""
+      },
+      {
+        "name": "Cefotaxime Sodium",
+        "form": "IV",
+        "strength": "125mg · 250mg · 500mg · 1000mg",
+        "use": ""
+      },
+      {
+        "name": "Amoxicillin + Clavulanate",
+        "form": "IV",
+        "strength": "250mg · 1000mg",
+        "use": ""
+      },
+      {
+        "name": "Azithromycin",
+        "form": "IV",
+        "strength": "500mg",
+        "use": ""
+      },
+      {
+        "name": "Clarithromycin",
+        "form": "IV",
+        "strength": "250mg · 500mg",
+        "use": ""
+      },
+      {
+        "name": "Doxycycline",
+        "form": "Sterile Dry Inj.",
+        "strength": "100mg",
+        "use": ""
+      },
+      {
+        "name": "Clindamycin",
+        "form": "IV",
+        "strength": "150mg · 600mg",
+        "use": ""
+      },
+      {
+        "name": "Gentamicin Sulfate",
+        "form": "IV",
+        "strength": "40mg/ml — 2ml & 100ml",
+        "use": ""
+      },
+      {
+        "name": "Amphotericin B (Lipid Complex)",
+        "form": "IV",
+        "strength": "5mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Chloramphenicol Sodium Succinate",
+        "form": "Dry Powder",
+        "strength": "1000mg",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "anti-malarial",
+    "name": "Anti-Malarials",
+    "description": "Severe and second-line malaria treatment, including IV and IM options for hospital-level care.",
+    "products": [
+      {
+        "name": "Artesunate",
+        "form": "IV",
+        "strength": "30mg · 60mg · 120mg (dry powder)",
+        "use": "Severe malaria, first-line IV treatment"
+      },
+      {
+        "name": "Artemether",
+        "form": "IM",
+        "strength": "40mg · 80mg · 150mg ampoule",
+        "use": "Second-line severe malaria"
+      },
+      {
+        "name": "a-b Arteether",
+        "form": "IM",
+        "strength": "75mg/ml — 1ml & 2ml ampoule",
+        "use": ""
+      },
+      {
+        "name": "Quinine Dihydrochloride",
+        "form": "Injection",
+        "strength": "Standard hospital strength",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "maternal-health",
+    "name": "Maternal Health & Obstetrics",
+    "description": "Postpartum hemorrhage and pre-eclampsia management — core obstetric emergency drugs.",
+    "products": [
+      {
+        "name": "Oxytocin",
+        "form": "IV/IM",
+        "strength": "10 IU/ml",
+        "use": "PPH prevention & management, labor induction"
+      },
+      {
+        "name": "Tranexamic Acid",
+        "form": "IV",
+        "strength": "500mg/5ml",
+        "use": "Postpartum hemorrhage"
+      },
+      {
+        "name": "Magnesium Sulfate",
+        "form": "IV",
+        "strength": "50% w/v",
+        "use": "Pre-eclampsia, eclampsia"
+      },
+      {
+        "name": "Etamsylate",
+        "form": "IV",
+        "strength": "250mg/2ml",
+        "use": ""
+      },
+      {
+        "name": "Calcium Gluconate",
+        "form": "IV",
+        "strength": "1g/10ml",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "neurology",
+    "name": "Neurology / CNS",
+    "description": "Acute stroke care and status-epilepticus management for hospital neurology units.",
+    "products": [
+      {
+        "name": "Citicoline",
+        "form": "IV",
+        "strength": "250mg/ml",
+        "use": "Acute stroke care"
+      },
+      {
+        "name": "Levetiracetam",
+        "form": "IV",
+        "strength": "100mg/ml — 5ml vial",
+        "use": "Epilepsy, status epilepticus"
+      },
+      {
+        "name": "Mecobalamin",
+        "form": "IV/IM",
+        "strength": "500mcg – 2500mcg",
+        "use": "Peripheral neuropathy, B12 deficiency"
+      },
+      {
+        "name": "Diazepam",
+        "form": "IV",
+        "strength": "5mg/ml · 10mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Piracetam",
+        "form": "IV",
+        "strength": "200mg/ml (15ml)",
+        "use": ""
+      },
+      {
+        "name": "Edaravone",
+        "form": "IV",
+        "strength": "1.5mg",
+        "use": ""
+      },
+      {
+        "name": "Midazolam",
+        "form": "IV",
+        "strength": "Standard hospital strength",
+        "use": ""
+      },
+      {
+        "name": "Phenobarbital Sodium",
+        "form": "IV",
+        "strength": "200mg/ml",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "cardiovascular",
+    "name": "Cardiovascular & Emergency",
+    "description": "Hypertensive crisis management and ICU vasopressor support.",
+    "products": [
+      {
+        "name": "Labetalol",
+        "form": "IV",
+        "strength": "5mg/ml",
+        "use": "Hypertensive emergency"
+      },
+      {
+        "name": "Furosemide",
+        "form": "IV",
+        "strength": "10mg/ml",
+        "use": "Pulmonary edema, CHF, AKI"
+      },
+      {
+        "name": "Epinephrine (Adrenaline)",
+        "form": "IV/IM",
+        "strength": "1mg/ml",
+        "use": "Anaphylaxis, cardiac arrest"
+      },
+      {
+        "name": "Norepinephrine",
+        "form": "IV",
+        "strength": "1mg/ml",
+        "use": "Septic shock, ICU vasopressor"
+      },
+      {
+        "name": "Amiodarone",
+        "form": "Infusion",
+        "strength": "150mg/3ml",
+        "use": ""
+      },
+      {
+        "name": "Atropine Sulfate",
+        "form": "IV",
+        "strength": "0.6mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Digoxin",
+        "form": "IV",
+        "strength": "0.25mg",
+        "use": ""
+      },
+      {
+        "name": "Dobutamine",
+        "form": "Injection / PFS",
+        "strength": "50mg",
+        "use": ""
+      },
+      {
+        "name": "Dopamine Hydrochloride",
+        "form": "PFS",
+        "strength": "Standard hospital strength",
+        "use": ""
+      },
+      {
+        "name": "Metoprolol Tartrate",
+        "form": "IV",
+        "strength": "1mg/ml",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "corticosteroids",
+    "name": "Corticosteroids & Immunology",
+    "description": "Anaphylaxis, ARDS, and adrenal-crisis management — the standard ICU steroid line.",
+    "products": [
+      {
+        "name": "Dexamethasone Sodium Phosphate",
+        "form": "IV",
+        "strength": "Standard hospital strength",
+        "use": "Cerebral edema, ARDS, chemo antiemetic"
+      },
+      {
+        "name": "Hydrocortisone Sodium Succinate",
+        "form": "IV",
+        "strength": "100mg · 200mg · 500mg",
+        "use": "Adrenal crisis, anaphylaxis, ICU"
+      },
+      {
+        "name": "Methylprednisolone",
+        "form": "IV / Acetate",
+        "strength": "40mg · 125mg · 500mg · 1000mg",
+        "use": "Asthma attack, autoimmune flare, ARDS"
+      },
+      {
+        "name": "Betamethasone Sodium Phosphate",
+        "form": "IV",
+        "strength": "Standard hospital strength",
+        "use": ""
+      },
+      {
+        "name": "Prednisolone Sodium Phosphate",
+        "form": "IV",
+        "strength": "5mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Triamcinolone Acetonide",
+        "form": "IV",
+        "strength": "40mg",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "anticoagulants",
+    "name": "Anticoagulants & Hematology",
+    "description": "DVT prophylaxis and anemia management for surgical and obstetric care.",
+    "products": [
+      {
+        "name": "Enoxaparin Sodium",
+        "form": "SC / PFS",
+        "strength": "20mg · 40mg · 60mg · 80mg",
+        "use": "DVT prophylaxis, cardiac catheterization"
+      },
+      {
+        "name": "Heparin Sodium",
+        "form": "IV",
+        "strength": "1000 IU/ml · 5000 IU/ml",
+        "use": "DVT, PE, cardiac catheterization"
+      },
+      {
+        "name": "Iron Sucrose",
+        "form": "IV",
+        "strength": "2.5ml ampoule",
+        "use": "Obstetric & renal anemia"
+      },
+      {
+        "name": "Phytomenadione (Vitamin K1)",
+        "form": "IV/IM",
+        "strength": "1mg/ml · 10mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Tranexamic Acid (Surgical)",
+        "form": "IV",
+        "strength": "500mg/5ml",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "toxicology",
+    "name": "Toxicology / Emergency Antidotes",
+    "description": "Organophosphate poisoning antidotes — a narrow, specialized, low-competition category.",
+    "products": [
+      {
+        "name": "Pralidoxime Chloride (2-PAM)",
+        "form": "IV",
+        "strength": "500mg",
+        "use": "Organophosphate poisoning antidote"
+      },
+      {
+        "name": "Atropine Sulfate",
+        "form": "IV",
+        "strength": "0.6mg/ml",
+        "use": "Organophosphate poisoning, bradycardia"
+      }
+    ]
+  },
+  {
+    "id": "analgesia",
+    "name": "Analgesia & Anesthesia",
+    "description": "Post-surgical and fever-management injectables — a high-frequency hospital reorder category.",
+    "products": [
+      {
+        "name": "Diclofenac Sodium",
+        "form": "IV/IM",
+        "strength": "75mg/3ml",
+        "use": "Post-operative & acute pain"
+      },
+      {
+        "name": "Paracetamol",
+        "form": "IV Infusion",
+        "strength": "1g/100ml · 150mg/ml",
+        "use": "Fever, post-operative pain"
+      },
+      {
+        "name": "Tramadol Hydrochloride",
+        "form": "IV",
+        "strength": "Standard hospital strength",
+        "use": "Moderate-to-severe post-surgical pain"
+      },
+      {
+        "name": "Ketorolac Tromethamine",
+        "form": "IV",
+        "strength": "30mg · 60mg/2ml",
+        "use": ""
+      },
+      {
+        "name": "Nalbuphine Hydrochloride",
+        "form": "IV",
+        "strength": "Standard hospital strength",
+        "use": ""
+      },
+      {
+        "name": "Meloxicam",
+        "form": "IV",
+        "strength": "15mg",
+        "use": ""
+      },
+      {
+        "name": "Piroxicam",
+        "form": "IV",
+        "strength": "20mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Dexketoprofen",
+        "form": "IV",
+        "strength": "50mg/2ml",
+        "use": ""
+      },
+      {
+        "name": "Dipyrone (Metamizole)",
+        "form": "IV",
+        "strength": "500mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Lidocaine Hydrochloride",
+        "form": "Local Anesthetic",
+        "strength": "2%",
+        "use": ""
+      },
+      {
+        "name": "Bupivacaine Hydrochloride",
+        "form": "In Dextrose Inj.",
+        "strength": "Standard hospital strength",
+        "use": ""
+      },
+      {
+        "name": "Thiocolchicoside",
+        "form": "IM",
+        "strength": "4mg/2ml",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "gastroenterology",
+    "name": "Gastroenterology & Antiemetics",
+    "description": "PPI and antiemetic coverage for hospital and post-surgical use.",
+    "products": [
+      {
+        "name": "Pantoprazole Sodium",
+        "form": "IV",
+        "strength": "40mg dry injection",
+        "use": "Hospital PPI, universal use"
+      },
+      {
+        "name": "Ondansetron Hydrochloride",
+        "form": "IV",
+        "strength": "2mg · 4mg · 8mg",
+        "use": "Post-surgical & chemo-support antiemetic"
+      },
+      {
+        "name": "Esomeprazole Sodium",
+        "form": "IV",
+        "strength": "40mg",
+        "use": ""
+      },
+      {
+        "name": "Granisetron Hydrochloride",
+        "form": "IV",
+        "strength": "Standard hospital strength",
+        "use": ""
+      },
+      {
+        "name": "Metoclopramide Hydrochloride",
+        "form": "IV",
+        "strength": "Standard hospital strength",
+        "use": ""
+      },
+      {
+        "name": "Rabeprazole Sodium",
+        "form": "IV",
+        "strength": "20mg",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "endocrine",
+    "name": "Endocrine & Hormonal",
+    "description": "Emerging category, including GLP-1 (semaglutide) and reproductive-hormone lines.",
+    "products": [
+      {
+        "name": "Semaglutide",
+        "form": "PFS",
+        "strength": "1mg · 2mg · 4mg · 6.8mg",
+        "use": ""
+      },
+      {
+        "name": "Octreotide Acetate",
+        "form": "IV",
+        "strength": "50mcg · 100mcg",
+        "use": ""
+      },
+      {
+        "name": "Medroxyprogesterone Acetate",
+        "form": "IM",
+        "strength": "150mg",
+        "use": ""
+      },
+      {
+        "name": "Hydroxyprogesterone",
+        "form": "IM",
+        "strength": "250mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Progesterone",
+        "form": "IM",
+        "strength": "25mg · 100mg/ml",
+        "use": ""
+      },
+      {
+        "name": "Terlipressin",
+        "form": "IV",
+        "strength": "1mg",
+        "use": ""
+      },
+      {
+        "name": "Cholecalciferol (Vitamin D3)",
+        "form": "IM",
+        "strength": "300,000 IU · 600,000 IU",
+        "use": ""
+      }
+    ]
+  },
+  {
+    "id": "vitamins-fluids",
+    "name": "Vitamins, Minerals & IV Fluids",
+    "description": "Hospital-staple vitamin, mineral, and large-volume fluid lines.",
+    "products": [
+      {
+        "name": "Vitamin B-Complex",
+        "form": "IV",
+        "strength": "10ml vial",
+        "use": ""
+      },
+      {
+        "name": "Vitamin C (Ascorbic Acid)",
+        "form": "IV",
+        "strength": "250mg/ml · 500mg/2ml",
+        "use": ""
+      },
+      {
+        "name": "Multivitamin Injection",
+        "form": "IV",
+        "strength": "Standard hospital strength",
+        "use": ""
+      },
+      {
+        "name": "Dextrose Infusion",
+        "form": "Infusion",
+        "strength": "5% · 10% · 25% — 250/500/1000ml",
+        "use": ""
+      },
+      {
+        "name": "Sodium Chloride 0.9%",
+        "form": "Infusion",
+        "strength": "250/500/1000ml",
+        "use": ""
+      },
+      {
+        "name": "Ringer Lactate",
+        "form": "Infusion",
+        "strength": "250/500/1000ml",
+        "use": ""
+      },
+      {
+        "name": "Sterile Water for Injection",
+        "form": "Infusion",
+        "strength": "500ml · 1000ml",
+        "use": ""
+      }
+    ]
+  }
+]
